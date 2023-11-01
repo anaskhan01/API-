@@ -72,5 +72,79 @@
           "price": "₹11,999",
           "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/c/s/x/-original-imagzjhwaaewgj8r.jpeg?q=70"
         }
+      ], 
+      "Laptops": [
+        {
+          "id": 0,
+          "title": "ASUS Vivobook 15",
+          "price": "₹39,990",
+          "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/c/l/t/-original-imagtucmkuwggepy.jpeg?q=70"
+        },
+        {
+          "id": 1,
+          "title": "ASUS TUF Gaming F15",
+          "price": "₹51,990",
+          "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/v/y/z/-original-imagtucnqsqpbvk6.jpeg?q=70"
+        },
+        {
+          "id": 2,
+          "title": "Apple iPhone 15 Plus",
+          "price": "₹89,900",
+          "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/c/6/r/-original-imagtc6fn8fecysv.jpeg?q=70"
+        },
+        {
+          "id": 3,
+          "title": "HP 2023 Athlon",
+          "price": "₹26,990",
+          "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/5/6/i/-original-imaggshd5zgfe8ev.jpeg?q=70"
+        },
+        {
+          "id": 4,
+          "title": "Lenovo Lenovo V15",
+          "price": "₹20,990",
+          "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/screen-guard/screen-guard/4/b/d/asg-14715-saco-original-imaghqbah9jycshw.jpeg?q=70"
+        },
+        {
+          "id": 5,
+          "title": "Infinix X2 Slim",
+          "price": "₹29,990",
+          "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/i/1/h/inbook-thin-and-light-laptop-infinix-original-imagpyjexehgq3kg.jpeg?q=70"
+        },
+        {
+          "id": 6,
+          "title": "Acer One Core",
+          "price": "₹27,990",
+          "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/6/5/g/-original-imagtke7erkzwzfp.jpeg?q=70"
+        },
+        {
+          "id": 7,
+          "title": "ASUS Chromebook",
+          "price": "₹18,990",
+          "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/7/d/p/-original-imagtmsy3bybzpvq.jpeg?q=70"
+        },
+        {
+          "id": 8,
+          "title": "Lenovo IdeaPad Slim 5",
+          "price": "₹85,990",
+          "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/u/v/z/-original-imagurhczmrun79y.jpeg?q=70"
+        },
+        {
+          "id": 9,
+          "title": "HP Ryzen 5 Hexa Core",
+          "price": "₹41,990",
+          "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/1/t/b/-original-imaguegyprhb7ba4.jpeg?q=70"
+        },
+        {
+          "id": 10,
+          "title": "HP (2023)",
+          "price": "₹37,990",
+          "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/r/m/u/-original-imaguefzxjsqxgga.jpeg?q=70"
+        },
+        {
+          "id": 11,
+          "title": "Macbook Air M1",
+          "price": "₹88,411",
+          "image": "https://rukminim2.flixcart.com/image/416/416/khdqnbk0/computer/f/y/t/apple-original-imafxfyqydgvrkzv.jpeg?q=70"
+        }
       ]
 }
