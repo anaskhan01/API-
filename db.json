@@ -146,5 +146,153 @@
           "price": "₹88,411",
           "image": "https://rukminim2.flixcart.com/image/416/416/khdqnbk0/computer/f/y/t/apple-original-imafxfyqydgvrkzv.jpeg?q=70"
         }
+      ],
+      "Fashion":[
+        {
+          "id": 0,
+          "title": "Men Printed, Black T-Shirt",
+          "price": "₹500",
+          "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/s/t/h/m-st-boxhead-black-smartees-original-imagr6yyw5hnn5zg.jpeg?q=70"
+        },
+        {
+          "id": 1,
+          "title": "Men Printed Hooded Neck",
+          "price": "₹729",
+          "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/3/d/i/l-jc22-hd-fs-black-jmc-pckt-jump-cuts-original-imagg3yxfk48y7nt.jpeg?q=70"
+        },
+        {
+          "id": 2,
+          "title": "Shoes For Men (Black)",
+          "price": "₹799",
+          "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/s/6/l/10-mrj1588-10-aadi-black-original-imagy74fxzsmgpba-bb.jpeg?q=70"
+        },
+        {
+          "id": 3,
+          "title": "Mid Rise Black Jeans",
+          "price": "₹1000",
+          "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/jean/8/f/i/26-kneecut-jeans-black-crishtaliyo-original-imagrch6fryg7axb.jpeg?q=70"
+        },
+        {
+          "id": 4,
+          "title": "Women Brown Top",
+          "price": "₹1500",
+          "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/top/u/k/4/m-coller-tops-style-prezone-original-imagjuvvhzxhmf4y.jpeg?q=70"
+        },
+        {
+          "id": 5,
+          "title": "Women Black Trousers",
+          "price": "₹2999",
+          "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/trouser/8/n/5/28-kttwomenspant261-kotty-original-imagnrr9xcy9zgru.jpeg?q=70"
+        },
+        {
+          "id": 6,
+          "title": "Women Kurta (Dark Blue, White)",
+          "price": "₹27,990",
+          "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/6/5/g/-original-imagtke7erkzwzfp.jpeg?q=70"
+        },
+        {
+          "id": 7,
+          "title": "Men Printed Casual Shirt",
+          "price": "₹3590",
+          "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/c/e/p/m-af-a-ayesha-fashion-original-imag7gy8utb6zmx4.jpeg?q=70"
+        },
+        {
+          "id": 8,
+          "title": "Men Slim Fit Formal Shirt",
+          "price": "₹1000",
+          "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/x/m/n/40-men-regular-slim-fit-solid-button-down-collar-formal-shirt-original-imagf4mn9zg7qrmf-bb.jpeg?q=70"
+        },
+        {
+          "id": 9,
+          "title": "Men Formal Blazer (Blue)",
+          "price": "₹3,515",
+          "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/blazer/n/0/a/48-araebz5001-arrow-original-imagk8pyauvxhzsf.jpeg?q=70"
+        },
+        {
+          "id": 10,
+          "title": "Men Solid Denim Jacket",
+          "price": "₹4990",
+          "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/jacket/x/h/p/xl-nmnt-7004-montrez-original-imag5t3nfpbqhgrx-bb.jpeg?q=70"
+        },
+        {
+          "id": 11,
+          "title": "Men Sweatshirt Special",
+          "price": "₹5000",
+          "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/sweatshirt/n/r/q/l-hm-1093-helmont-original-imaguh4bz6gczsct.jpeg?q=70"
+        }
+      ],
+      "TV":[
+        {
+          "id": 0,
+          "title": "Noise Buds VS404 ",
+          "price": "₹999",
+          "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/m/r/w/-original-imagsp8naj6v6ftm.jpeg?q=70"
+        },
+        {
+          "id": 1,
+          "title": "OnePlus Bullets Wireless Z2",
+          "price": "₹1,499",
+          "image": "https://rukminim2.flixcart.com/image/416/416/l0sgyvk0/headphone/e/w/c/buds-z2-oneplus-original-imagcg5gfpcg5ndv.jpeg?q=70"
+        },
+        {
+          "id": 2,
+          "title": "Mivi DuoPods K6",
+          "price": "₹799",
+          "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/x/m/p/-original-imagqzfyxzkuckyz.jpeg?q=70"
+        },
+        {
+          "id": 3,
+          "title": "boAt Aavante Bar 1550 Pro",
+          "price": "₹8,499",
+          "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/speaker/x/n/o/-original-imagzu7myhssag4g.jpeg?q=70"
+        },
+        {
+          "id": 4,
+          "title": "Foxsky 165 cm TV",
+          "price": "₹39,499",
+          "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/television/f/i/j/-original-imagt76hsqtcqyag.jpeg?q=70"
+        },
+        {
+          "id": 5,
+          "title": "Mi TV Stick",
+          "price": "₹2999",
+          "image": "https://rukminim2.flixcart.com/image/416/416/ke7ff680/selector-box/b/b/v/mi-tv-stick-mdz-24-aa-original-imafuxv2v84yafwq.jpeg?q=70"
+        },
+        {
+          "id": 6,
+          "title": "LG 164 cm OLED Ultra HD TV",
+          "price": "₹1,89,990",
+          "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/television/2/5/n/-original-imagu899ww9jfdmv.jpeg?q=70"
+        },
+        {
+          "id": 7,
+          "title": "SAMSUNG 8 kg 5 Star Washing Machine",
+          "price": "₹35,990",
+          "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/washing-machine-new/o/q/p/-original-imagub83j8uhzaex.jpeg?q=70"
+        },
+        {
+          "id": 8,
+          "title": "Men Slim Fit Formal Shirt",
+          "price": "₹1000",
+          "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/x/m/n/40-men-regular-slim-fit-solid-button-down-collar-formal-shirt-original-imagf4mn9zg7qrmf-bb.jpeg?q=70"
+        },
+        {
+          "id": 9,
+          "title": "SAMSUNG 183 L Refrigerator",
+          "price": "₹15,390",
+          "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/refrigerator-new/i/n/z/-original-imagub7jzfr7sdy8.jpeg?q=70"
+        },
+        {
+          "id": 10,
+          "title": "Haier Microwave Oven",
+          "price": "₹4990",
+          "image": "https://rukminim2.flixcart.com/image/416/416/k0r15e80/microwave-new/c/c/m/hil2001mwph-haier-original-imafkexqcgfkqzqt.jpeg?q=70"
+        },
+        {
+          "id": 11,
+          "title": "Orient Electric Iron",
+          "price": "₹500",
+          "image": "https://rukminim2.flixcart.com/image/416/416/l2rwzgw0/iron/3/u/l/fabrismooth-difs10wgp-orient-electric-original-imagefjqccgwz3nu.jpeg?q=70"
+        }
       ]
 }
